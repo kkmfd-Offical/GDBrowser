@@ -7,7 +7,7 @@ module.exports = {
 
     params: {   // Always send this stuff to the servers
         secret: 'Wmfd2893gb7',
-        gameVersion: '21',
+        gameVersion: '22',
         binaryVersion: '35',
         gdbrowser: '1'
     },
